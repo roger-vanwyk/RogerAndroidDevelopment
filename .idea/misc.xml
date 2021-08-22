@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_add_location_black_24dp.xml" value="0.21458333333333332" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.10625" />
+        <entry key="app/src/main/res/layout/activity_details.xml" value="0.18229166666666666" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/list_item.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/list_view.xml" value="0.1984375" />
+        <entry key="app/src/main/res/layout/locations_list.xml" value="0.19538461538461538" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.10625" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
